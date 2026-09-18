@@ -10,7 +10,7 @@
 
 # ⚡ NOVATECH GUY
 
-### `Developer • Creator • Problem Solver • Lifelong Learner`
+### `Developer • Problem Solver • Lifelong Learner`
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/)
@@ -132,23 +132,6 @@ An emerging technology brand focused on exploring software products and digital 
 
 ---
 
-## 📌 Current Mission
-
-I'm focused on improving my technical foundation and turning knowledge into working projects.
-
-```text
-[████████████████░░░░]  Keep Learning
-
-✓ Strengthen programming fundamentals
-✓ Practice JavaScript
-✓ Improve Git & GitHub workflows
-✓ Explore Linux and systems
-✓ Build practical web applications
-□ Develop larger software projects
-□ Contribute to open source
-□ Launch useful digital products
-```
-
 > Progress is measured by what you can build,
 > explain, and solve—not just what you have watched.
 
@@ -212,22 +195,6 @@ I enjoy exploring the space between technology and creativity.
 - 🐧 Linux and open-source software interest me.
 - 🎨 I enjoy the creative side of technology.
 - 🌍 I want to explore technology's potential across Africa and beyond.
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<!-- Replace USERNAME with your actual GitHub username -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=novatechcafe-oss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novatechcafe-oss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
 
 ---
 
