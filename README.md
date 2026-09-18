@@ -83,8 +83,6 @@ I value:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 ### ⚙️ Tools & Technologies
@@ -93,9 +91,7 @@ I value:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/CorelDRAW-00A651?style=for-the-badge" alt="CorelDRAW"/>
 </p>
 
 ### 🔬 Areas of Interest
@@ -105,9 +101,6 @@ I value:
 | 🌐 Web Development | Websites and web applications |
 | 🖥️ Systems | Linux, operating systems, and infrastructure |
 | 🔐 Cybersecurity | Security fundamentals and exploration |
-| 🤖 AI | Local AI and practical automation |
-| 🎨 Design | Graphic design and user interfaces |
-| 🗄️ Databases | Data organization and management systems |
 
 ---
 
@@ -115,31 +108,7 @@ I value:
 
 > A selection of projects, experiments, and ideas.
 
-### 01. 🌍 NovaAgencies
-
-**A recruitment-focused digital platform**
-
-An idea centered around connecting opportunities and talent across borders.
-
-- **Category:** Web Development
-- **Focus:** Recruitment and digital services
-- **Status:** In development
-
----
-
-### 02. 🏫 Bright Future Academy
-
-**A modern school website**
-
-A static website project designed to present school information in a clean and accessible format.
-
-- **Category:** Web Development
-- **Focus:** Design, layout, and usability
-- **Status:** Project workspace
-
----
-
-### 03. 🧾 CyberHelp
+### 01. 🧾 CyberHelp
 
 **A practical CV generation tool**
 
@@ -151,7 +120,7 @@ An idea for making CV creation simpler and more accessible for job seekers.
 
 ---
 
-### 04. 🏢 HANO SOFTWARES
+### 02. 🏢 HANO SOFTWARES
 
 **A vision for building software solutions**
 
@@ -185,33 +154,6 @@ I'm focused on improving my technical foundation and turning knowledge into work
 
 ---
 
-## 💻 A Little Code
-
-```javascript
-function keepBuilding() {
-    const mindset = "Curiosity";
-
-    if (mindset === "Curiosity") {
-        console.log("Keep exploring.");
-        console.log("Keep asking questions.");
-        console.log("Keep building.");
-    }
-}
-
-for (let day = 1; day <= 365; day++) {
-    keepBuilding();
-}
-```
-
-### What this represents
-
-- **Functions:** Organize reusable logic.
-- **Conditions:** Make decisions.
-- **Loops:** Practice repetition.
-- **Consistency:** Improve through repeated effort.
-
----
-
 ## 📊 My Developer Principles
 
 | Principle | Meaning |
@@ -220,8 +162,6 @@ for (let day = 1; day <= 365; day++) {
 | 🛠️ Practice | Write code regularly. |
 | 🐛 Debug | Treat errors as information. |
 | 📖 Document | Make your work understandable. |
-| 🔄 Refactor | Improve what you've already built. |
-| 🚀 Ship | Turn finished ideas into usable things. |
 
 ---
 
@@ -248,28 +188,6 @@ I enjoy exploring the space between technology and creativity.
 - Web application architecture
 - Responsive design
 - User experience
-
-</details>
-
-<details>
-<summary><b>🔐 Cybersecurity</b></summary>
-
-- Networking fundamentals
-- Security concepts
-- Ethical security learning
-- System awareness
-- Responsible experimentation
-
-</details>
-
-<details>
-<summary><b>🤖 Artificial Intelligence</b></summary>
-
-- Local AI experiments
-- Exploring language models
-- Practical automation
-- AI-assisted workflows
-
 </details>
 
 ---
@@ -288,38 +206,11 @@ I enjoy exploring the space between technology and creativity.
 
 ---
 
-## 📚 Recommended Learning Approach
-
-```text
-LEARN
-  ↓
-UNDERSTAND
-  ↓
-PRACTICE
-  ↓
-BUILD
-  ↓
-BREAK THINGS
-  ↓
-DEBUG
-  ↓
-IMPROVE
-  ↓
-REPEAT
-```
-
-> The best way to learn programming is to combine
-> understanding with actual practice.
-
----
-
 ## 🧠 Random Facts About Me
 
 - 💡 I enjoy exploring how technology works.
 - 🐧 Linux and open-source software interest me.
-- ♟️ I appreciate the connection between chess and logical thinking.
 - 🎨 I enjoy the creative side of technology.
-- 🛠️ I prefer building practical things over collecting tutorials.
 - 🌍 I want to explore technology's potential across Africa and beyond.
 
 ---
@@ -330,16 +221,13 @@ REPEAT
 
 <!-- Replace USERNAME with your actual GitHub username -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=novatechcafe-oss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novatechcafe-oss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
-
-> Note: The stats cards require a valid GitHub username and
-> rely on an external service.
 
 ---
 
@@ -351,7 +239,7 @@ REPEAT
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:your-novatechcafe@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -360,27 +248,6 @@ REPEAT
 </div>
 
 ---
-
-## ✍️ Final Thoughts
-
-> **"Build. Learn. Improve. Repeat."**
-
-Technology is a journey of continuous discovery.
-
-There will always be another language to learn, another system to understand, another problem to solve, and another idea worth exploring.
-
-I'm not here to pretend I know everything.
-
-I'm here to keep learning.
-
-<div align="center">
-
-### ⚡ NOVATECH GUY
-
-`Curiosity in mind. Code in progress.`
-
-<br>
-
 **Thanks for visiting! ⭐**
 
 </div>
